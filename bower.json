@@ -9,8 +9,8 @@
     "tests"
   ],
   "dependencies": {
-    "bookingbug-angular-public-booking": "~0.0.174",
-    "bookingbug-angular-member": "~0.0.174"
+    "bookingbug-angular-public-booking": null,
+    "bookingbug-angular-member": null
   },
   "resolutions": {
     "angular": "1.2.28",
